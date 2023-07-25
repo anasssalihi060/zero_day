@@ -1,1 +1,1 @@
-# this is my readme file 
+This is the README file for 0x00-vagrant directory.
